@@ -1,0 +1,9 @@
+fastapi
+python-multipart
+uvicorn
+opencv-python-headless
+numpy
+requests
+pyinstaller
+pywebview
+scipy
